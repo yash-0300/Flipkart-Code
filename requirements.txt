@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langchain-experimental
+langchain-huggingface
+langchain-text-splitters
